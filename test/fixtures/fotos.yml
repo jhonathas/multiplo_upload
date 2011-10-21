@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  imagem_uid: MyString
+  imagem_width: 1
+  imagem_height: 1
+  imagem_cropping: 1
+
+two:
+  nome: MyString
+  imagem_uid: MyString
+  imagem_width: 1
+  imagem_height: 1
+  imagem_cropping: 1

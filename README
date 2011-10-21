@@ -1,0 +1,5 @@
+Exemplo de sistema de upload utilizando a GEM "Dragonfly - https://github.com/markevans/dragonfly/" e o Plugin em jQuery "jQuery-File-Upload - http://aquantum-demo.appspot.com/file-upload"
+
+Procurei bastante por uma solução de upload de multiplos arquivos utilizando a GEM dragonfly, e como não cheguei a uma solução que me atendesse, criei esse exemplo e estou compartilhando com quem  possuir a mesma necessidade.
+
+Se alguém quiser fazer algum tipo de melhoria como por exemplo inclusão de testes fiquem a vontade, por enquanto não tive tempo de fechar os testes aqui porém se até eu fechar ninguém tiver desenvolvido subirei atualização.
